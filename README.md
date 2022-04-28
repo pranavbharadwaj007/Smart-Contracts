@@ -1,0 +1,3 @@
+# Smart-Contracts
+
+-> Lottery system
